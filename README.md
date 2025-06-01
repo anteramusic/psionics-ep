@@ -4,7 +4,6 @@
 **Artist:** ANTERA  
 **Release Date:** June 1st, 2025  
 **Artwork:** `antera - psionics ep artwork.jpg`  
-**Archive:** `antera - psionics ep.zip` (contains all tracks and cover)
 
 ---
 
