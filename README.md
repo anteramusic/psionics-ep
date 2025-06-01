@@ -20,29 +20,13 @@ Blending heavy electro house rhythms with dark, classical influence, this EP evo
 ## 🎧 Tracklist
 
 1. **psionics**  
-   I made this originally during covid on my couch in 3 or so days then spent the rest of my days worrying about if it's ok or not and if I need to change the bridge, but now I love the bridge and it's distorted wormmy bass
-
 2. **Scintillating Stomata**  
-   this track is about my migraines and the things I see before I get them. Go ahead, image search the title of this track. I get this visual rainbow zigzag in my vision before a horrible headache but honestly it's quite beautiful in a way.  
-   The track tries to capture the progression of feeling when it comes on.
-
 3. **Heist**  
-   a follow up in title and spirit to my previous release when I was in College. "Taylor Thomas - Getaway Van" where I sampled the engine start of a friends car and made an electro banger mixed in the college's studio room. This has the same vibe and feeling, be sure to look up my previous track!
-
 4. **VOiD**  
-   VOiD  
-
 5. **Ghost House**  
-   ever play Super Mario Bros. World?
-
 6. **a e t h è r**  
-   a e t h è r
-
 7. **h o l o g r a H A M**  
-   Ham Oarchards...
-
 8. **tokamak**  
-   I worked on this track in bed watching "Skinwalker Ranch"  
 ---
 
 ## 🌀 Usage / Remix Policy
