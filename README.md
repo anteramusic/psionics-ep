@@ -1,18 +1,16 @@
 # ANTERA - PSIONICS EP
 
+<img src="antera - psionics ep artwork.jpg" alt="EP Artwork" style="height: 300px; display: block; margin: 0 auto;" />
+
 **Genre:** Electro House / Dark Classical  
 **Artist:** ANTERA  
 **Release Date:** June 1st, 2025  
-**Artwork:** `antera - psionics ep artwork.jpg`  
+**Artwork:** `antera - psionics ep artwork.jpg`
 
 ---
 
 ## 🌌 About
 
-**PSIONICS** is a cerebral dive into synthetic energy and digital mysticism.  
-Blending heavy electro house rhythms with dark, classical influence, this EP evokes a moody, cinematic experience tailored for introspection, deep focus, or dystopian dancefloors.
-
-This release is inspired by the *do-it-ourselves* philosophy seen in artists like Bankai, who embrace openness and community-driven creativity. While this EP doesn't include stems, it carries the same spirit—collaborative, remixable, and anti-gatekeep.
 
 ---
 
@@ -36,9 +34,6 @@ This EP is released for **free** under an open-use model:
 - ✅ **Free to use for personal, educational, DJ sets, videos, or non-commercial projects**  
 - ❌ **Do not use for commercial gain without written permission**  
 - 🎛️ **Remixes are welcome** – feel free to fork, flip, or reinterpret  
-- 🤝 **Send a pull request** if you make something cool — I’d love to feature it
-
-Let’s build a creative feedback loop together.
 
 ---
 
